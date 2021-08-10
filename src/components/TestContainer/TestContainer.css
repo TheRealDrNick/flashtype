@@ -15,7 +15,7 @@
     flex-grow: 1;
 }
 
-.try-again-cont {
+.try-again-container {
     flex-grow: 1;
     display: flex;
     flex-direction: column;

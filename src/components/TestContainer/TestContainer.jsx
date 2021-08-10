@@ -1,6 +1,5 @@
 import React from 'react';
 import TryAgain from '../TryAgain/TryAgain';
-import TypingChallenge from '../TypingChallenge/TypingChallenge';
 import TypingChallengeContainer from '../TypingChallengeContainer/TypingChallengeContainer';
 import "./TestContainer.css";
 
