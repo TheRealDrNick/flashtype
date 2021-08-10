@@ -38,7 +38,7 @@ class App extends React.Component {
         }, 1000)
     }
 
-    startAgain = () => this.fetchNewParagraph();
+    startAgain = () => this.fetchNewParagraphFallback();
 
     handleUserInput = (inputValue) => {
         if (!this.state.timerStarted) this.startTimer();
